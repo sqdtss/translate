@@ -1,0 +1,1 @@
+打开dist文件下的translate.exe文件食用即可~
